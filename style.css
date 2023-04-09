@@ -1,0 +1,19 @@
+#header{
+    text-align: center;
+    background-color:rgba(192, 255, 3, 0.861);
+    color: rgb(0, 0, 0);
+    width:1650px;
+}
+#main{
+    background-color:rgba(0, 238, 255, 0.902) ;
+    height: 800px;
+    width: 1650px;
+}
+h2{
+    font-size:50px;
+}
+p{
+    font-size:  20px;
+    font-weight: bolder;
+    
+}
